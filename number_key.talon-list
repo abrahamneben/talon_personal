@@ -1,0 +1,13 @@
+list: user.number_key
+language: en
+-
+number zero: 0
+number one: 1
+number two: 2
+number three: 3
+number four: 4
+number five: 5
+number six: 6
+number seven: 7
+number eight: 8
+number nine: 9
