@@ -8,7 +8,6 @@ focus panel second: user.vscode("workbench.action.focusSecondEditorGroup")
 focus panel third: user.vscode("workbench.action.focusThirdEditorGroup")
 
 focus terminal: user.vscode("workbench.action.terminal.focus")
-
 close terminal: user.vscode("workbench.action.terminal.kill")
 
 # editing
@@ -21,4 +20,3 @@ go part left: user.vscode("cursorWordPartLeft")
 go part right: user.vscode("cursorWordPartRight")
 select part left: user.vscode("cursorWordPartLeftSelect")
 select part right: user.vscode("cursorWordPartRightSelect")
-
